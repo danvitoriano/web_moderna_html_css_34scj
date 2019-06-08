@@ -27,3 +27,7 @@ Você precisa adicionar um wrapper adequado para:
 - Você não precisa conhecer nenhum CSS para fazer essa avaliação; você só precisa colocar o CSS fornecido dentro de um elemento HTML.
 - O CSS fornecido é projetado para que, quando os elementos estruturais corretos forem adicionados à marcação, eles apareçam em verde na página renderizada.
 - Se você está ficando preso e não pode visualizar quais elementos colocar onde, geralmente ajuda a desenhar um diagrama de blocos simples do layout da página, e escrever nos elementos que você acha que deve envolver cada bloco.
+
+### Projeto Final
+
+![alt text](https://github.com/danvitoriano/web_moderna_html_css_34scj/blob/master/example-page.png "Projeto Final")
