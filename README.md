@@ -10,10 +10,10 @@ Para este projeto, sua tarefa é levar o conteúdo para a página inicial de um 
 
 Você precisa adicionar um wrapper adequado para:
 
-- O cabeçalho
-- O menu de navegação
-- O conteúdo principal
-- O texto de boas vindas
+- O cabeçalho -header
+- O menu de navegação - nav
+- O conteúdo principal - main
+- O texto de boas vindas 
 - A barra lateral da imagem
 - O rodapé
 
